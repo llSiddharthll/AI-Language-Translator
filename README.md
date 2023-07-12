@@ -64,10 +64,8 @@ Contributions to this project are welcome! If you find any issues or have sugges
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
 Made with ❤️ by Siddharth
 
 [![GitHub](github-logo.png)](https://github.com/your-username)
 [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/your-username/)
-```
