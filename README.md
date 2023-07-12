@@ -1,7 +1,6 @@
-```markdown
-# Language Translation Algorithm
+## Language Translation Algorithm
 
-![Language Translation](translation_image.jpg)
+![Language Translation](pics/translation_image.jpeg)
 
 > This repository contains an implementation of a machine learning algorithm for language translation between any two languages. The code utilizes a sequence-to-sequence (Seq2Seq) model with an encoder-decoder architecture, implemented using PyTorch.
 
@@ -67,8 +66,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by Your Name
+Made with ❤️ by Siddharth
 
-[![GitHub](github-logo.png)](https://github.com/your-username)
-[![LinkedIn](linkedin-logo.png)](https://www.linkedin.com/in/your-username/)
+[![GitHub](pics/github-logo.png)](https://github.com/your-username)
+[![LinkedIn](pics/linkedin-logo.png)](https://www.linkedin.com/in/your-username/)
 ```
